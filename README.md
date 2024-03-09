@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abaknacchan
-- 👀 I’m interested in light coding, and you
-- 🌱 I’m currently learning anything that I don't know yet, like all about you
-- 💞️ I’m looking to collaborate on everyone to get close to you
+- 👋 Hello, I'm @abaknacchan.
+- 👀 I enjoy light coding, and I'm curious about you.
+- 🌱 I'm always learning new things that I don't know yet, such as everything about you.
+- 💞️ I want to collaborate with everyone to get closer to you.
 
 <!---
 abaknacchan/abaknacchan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
